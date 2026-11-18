@@ -15,6 +15,23 @@ In my home lab I run a two-domain-controller Windows Server 2025 forest extended
 - 85%+ first-contact resolution at Teleperformance Portugal, beating SLA targets
 - Runbooks, SOPs and knowledge-base articles that shortened onboarding
 
+## Certifications (click to verify)
+
+| Certification | Issuer | Verify |
+| --- | --- | --- |
+| CompTIA Security+ ce | CompTIA | [Credly](https://www.credly.com/badges/1ebf4041-f4b2-4075-b608-bb4676b5bbba/linked_in_profile) |
+| CompTIA Network+ ce | CompTIA | [Credly](https://www.credly.com/badges/2b6eca48-8334-4dab-854a-81d059e929f5/linked_in_profile) |
+| CompTIA A+ ce | CompTIA | [Credly](https://www.credly.com/badges/1090519b-64b6-43cc-b06d-50a8b468865b/linked_in_profile) |
+| CompTIA Secure Infrastructure Specialist (CSIS) | CompTIA | [Credly](https://www.credly.com/badges/3bce1fbe-2f12-48ad-93b1-ebbcb46d48c1/linked_in_profile) |
+| CompTIA IT Operations Specialist (CIOS) | CompTIA | [Credly](https://www.credly.com/badges/127adfdb-f2c4-4bc7-83ef-e031e0c1eba2/linked_in_profile) |
+| Jr Penetration Tester | TryHackMe | [Certificate](https://tryhackme.com/certificate/THM-YDN6IXFNPE) |
+| SOC Analyst Level 1 | Tech Made Simple | [Certificate](https://techmadesimple.net/certificate/c205fbcd-8396-40e9-b32d-e83faa52f051) |
+| Cybersecurity Fundamentals | IBM SkillsBuild | [Credly](https://www.credly.com/badges/e12083ea-741e-4433-a9e0-5d42c4b0c7b6/linked_in_profile) |
+| Intro to Splunk | Splunk | [Certificate](https://drive.google.com/file/d/1fKwquHGxTn96YEoRPeyVmno-wCEHzf99/view?usp=drive_link) |
+| Excel Fundamentals for Data Analysis | Coursera | [Certificate](https://www.coursera.org/account/accomplishments/certificate/SQJR886LFSTA) |
+
+Microsoft MD-102 (Endpoint Administrator) in progress.
+
 ## IT support labs (Microsoft)
 
 | Lab | What it shows |
